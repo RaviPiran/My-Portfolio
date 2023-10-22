@@ -277,8 +277,7 @@ h6 {
   background: url("../img/PicsArt_10-18-09.48.37.jpg") top right no-repeat;
   background-size: cover;
   position: relative;
-  height: 1053px;
-  width: 1920px;
+  
 }
 
 @media (min-width: 992px) {
